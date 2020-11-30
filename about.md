@@ -1,22 +1,67 @@
 ---
 layout: page
-title: About
-comments: true
+title: はじめに自己紹介
+permalink: /about/
 ---
 
-This website is built with Jekyll and "Affiliates" (a Jekyll Template designed & developed by WowThemes.net). It is meant for demonstration purposes, so you can have an idea of how this theme looks in action so no real content can be found. Affiliates template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github. This page in example shows a page layout.
+こんにちは、のれんです。<br>
+大好きな街ラスベガスを中心に、ネバダ州周辺のカジノ、観光やホテルの情報をアップしていくね。<br>
 
-**License & Download**
+自己紹介なので、カジノにはまった話を書くね。<br>
+<br>
+初めてラスベガスに行ったのは、もうはっきりとは覚えていないけど、10年以上前かな。当時はハワイに住んでいたよ。<br>
+<br>
+まだ車の運転に自信がなかったのもあって、車の必要ない観光地に旅行に行くことに。<br>
+そこで候補に上がったのがラスベガス✨<br>
+ラスベガスは、車がなくても十分楽しめる場所:spades:<br>
+24時間バスも走ってるし、徒歩でも十分観光ができるんだよね。<br>
+<br>
+そして何よりホテルの宿泊代の安さに惹かれたの😗 <br>
+そう、ラスベガスはホテル代が激安！<br>
+もともとカジノは全然するつもりはなく、ホテル巡りやショーの鑑賞、アウトレットでの買い物を目的にラスベガスに行くことに決定！<br>
+<br>
+<br>
+そんなわけで、ラスベガスに飛び立ったわけ:airplane:<br>
+ラスベガス空港に降り立つと、まず目に入るのが、スロットマシーン！<br>
+こんなところにまでスロットマシーンが...:astonished:<br>
+今でもまだこれを見ると、あ、ベガスに来たなぁ〜ってテンション上がるの。<br>
+<br>
+選んだホテルは Flamingo。<br>
+立地の良さ、宿泊代の安さ、部屋の可愛さで選んだの:sparkling_heart:<br>
+<br>
+どうでもいい情報だけど、この時ホテルのお土産屋で買ったマグカップは今でも愛用品。毎朝これでコーヒー飲んでる☕️<br>
+![Las Vegas](/assets/images/IMG_9501.jpg)
+<br><br><br>
+滞在中はストリップ通り（ラスベガスのメイン通りの名前ね！）の端から端まで歩いたな〜。<br>
+いろんなホテルがあってね、それぞれテーマがあるわけ。<br>
+ピラミッド型のホテルとか、お城の形をしたホテルとか。<br>
+そして、今はだいぶん減っちゃったけど、ホテルでやってる無料のショーを見て回ったよ:clap:<br>
+有名なのはBellagioの噴水ショーね:fountain:<br>
+<br>
+その他、有名なシルクドソレイユのショーとか色々あるけど、初めてのラスベガスの時には行かなかったかな。<br>
+なんせ、無料で見れる場所やショーがたくさんあって時間がなかったんだよね。<br>
+<br>
+あと、買い物だけど、アウトレットが充実してるの:handbag:<br>
+バスで簡単に行けるアウトレットがいくつかあるよ。<br>
+そしてブランド物が激安だから、爆買い注意ね🙋<br>
+<br>
+そして、カジノ。ちょっとだけのつもりで手を出したはずが、、、、<br>
+すごくハマっちゃったんだよね。<br>
+特にスロットマシーン。<br>
+ラスベガスに行くまでは、スロットといえば、昔からよくある、777で揃えるアナログっぽいマシーン:slot_machine:のイメージしかなかったんだけど、違うんだよね〜。<br>
+いろんなビデオタイプのマシーンがあって、3Dだったり、結構ハイテクなビデオゲームが100種類以上あるの。<br>
+その頃ハマってた、Sex and the cityのマシーンとかもあったよ。<br>
+音楽が流れてくるだけでテンションMAXになるやつ💗<br>
+<br>
+カジノには、スロットマシーンのほかに、ディーラーがいるテーブルゲームが色々あるんだけど、ルールをYoutubeやネットで調べてやってみてるのもおすすめ。<br>
+特にルーレットとかとっても簡単！<br>
+ちなみに英語片言でも全然大丈夫:ok_woman:<br>
+<br>
+私の初めてのラスベガス旅行は予想以上に楽しくなっちゃって、それからは毎年2回はラスベガスに行くようになったの。<br>
 
-"Affiliates" for Jekyll is designed and developed by WowThemes.net and it is *free* for personal use.
+<br>
 
-<a href="https://github.com/wowthemesnet/affiliates-jekyll-theme/archive/master.zip" target="_blank">Download - Affiliates Jekyll Theme</a>
 
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme1.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme2.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme3.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme4.jpg)
+![Las Vegas](/assets/images/IMG_6587.JPG)
+<br><br><br>
 
