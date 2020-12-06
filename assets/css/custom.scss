@@ -8,7 +8,7 @@
 	"syntax"
 ;
 
-div.row img{
+div.row img:not(.emoji){
 	width:100%;
 }
 
