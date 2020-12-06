@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post-right-sidebar
 title: はじめに自己紹介
 permalink: /about/
 ---
