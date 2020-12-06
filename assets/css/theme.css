@@ -323,6 +323,7 @@ span.post-name a,span.post-read-more a:hover {
 }
 .mainheading h1.posttitle {
 	font-weight:700;
+    font-size: 2rem;
 	margin-bottom:1rem;
 }
 .intro {
