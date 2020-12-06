@@ -7,3 +7,14 @@
 @import
 	"syntax"
 ;
+
+div.row img{
+	width:100%;
+}
+
+ul.chcklist {
+	list-style-type: none;
+	li::before { content: "\2610"; margin-right: 0.5em; }
+}
+
+
