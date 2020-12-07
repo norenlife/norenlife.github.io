@@ -53,9 +53,7 @@ featured: true
 例えばスロットマシンを回した時、入金して回した分はもちろん、勝ったお金で回しても、回した分だけポイントが加算され貯まる仕組みです。
 <br>
 <br>
-Las Vegasでは、主に２つの大きな会社がホテルを運営していて、
-
-それぞれの会社がポイントシステムを運営しています。
+Las Vegasでは、主に２つの大きな会社がホテルを運営しています。
 
 - <a href="https://www.caesars.com/myrewards/benefits-overview" target="_blank">Caesars Entertaiment</a>
 - <a href="https://www.mgmresorts.com/en/mlife-rewards-program.html" target="_blank">MGM</a>
@@ -71,9 +69,9 @@ Las Vegasでは、主に２つの大きな会社がホテルを運営してい�
 
 私はポイントの貯め易さからこの2つにお世話になっています。
 
+<br>
 <a name="2"></a>
 
-<br><br>
 ### ポイントカードをゲットしよう
 
 ホテルについたら、まずリワード専用のカウンターに行きます。<br>
@@ -91,7 +89,7 @@ Las Vegasでは、主に２つの大きな会社がホテルを運営してい�
 <br>
 はじめにカード作る時はパスポートなどの身分証明書が必要です。
 
-<br><br>
+<br>
 
 <a name="3"></a>
 
@@ -113,7 +111,7 @@ Las Vegasでは、主に２つの大きな会社がホテルを運営してい�
 
 何回でも何枚でも発行しなおしてくれます。
 
-<br><br>
+<br>
 
 <a name="4"></a>
 
