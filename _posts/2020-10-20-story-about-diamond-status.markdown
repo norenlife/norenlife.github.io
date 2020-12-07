@@ -18,7 +18,7 @@ featured: true
 <b>ホテル代を払ったのは最初の1回のみ。</b>
 
 2回目からはずっと、無料でホテルに宿泊しています。
-<br><br><br><br>
+<br><br>
 
 <div class="mokuji">
 <div class="mokuji-title">本記事の内容</div>
@@ -38,7 +38,7 @@ featured: true
 </ul>
 </div>
 <!--more-->
-<br><br><br><br>
+<br><br>
 
 <a name="1"></a>
 
