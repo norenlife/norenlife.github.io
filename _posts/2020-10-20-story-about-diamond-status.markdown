@@ -22,13 +22,11 @@ featured: true
 2回目からはずっと、無料でホテルに宿泊しています。
 <br><br><br><br>
 
-div class="mokuji">
+<div class="mokuji">
 <div class="mokuji-title">本記事の内容</div>
 <ul class="mokuji-list">
     <li>
-      <a href="#1">ハワイ旅行の持ち物チェックリスト【印刷可】</a><br>
-      一般用<br>
-      子連れ用
+      <a href="#1">リワードポイントとは？ どうやって貯める？</a><br>
     </li>
     <li>
       <a href="#2">忘れ物をしてしまった！現地で調達できるものは？ </a>
@@ -36,6 +34,8 @@ div class="mokuji">
 </ul>
 </div>
 <!--more-->
+
+<a name="1"></a>
 
 ### リワードポイントとは？ どうやって貯める？
 
