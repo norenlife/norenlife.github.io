@@ -82,7 +82,6 @@ Las Vegasでは、主に２つの大きな会社がホテルを運営してい�
 
 もちろん日本在住でも問題ありません。<br>
 
-<br>
 カードはこんな感じ。<br>
 
 ![Players Card](/assets/images/IMG_4622.jpg)
