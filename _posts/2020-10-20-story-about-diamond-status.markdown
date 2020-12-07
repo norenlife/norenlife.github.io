@@ -49,8 +49,8 @@ Las Vegasでは、主に２つの大きな会社がホテルを運営してい�
 | ----------- | ----------- | ----- |
 |リワード名 | Caesars Rewards |M life Rewards|
 | 主なホテル | Caesars Palace<br>Harrah's<br>BALLY's<br>PARIS<br>PlanetHallywood<br>Flamingo<br>Cromwell<br>LINQ| MGM Grand<br>BELLAGIO<br>Aria<br>PARK MGM<br> MANDALAY BAY<br> NEWYORK NEWYORK<br> LUXOR<br> Excalivur|
-
-上に該当しないホテルも、
+<br><br>
+ここに書いていないホテルも、
 
 たいてい独自のポイントシステムを運営していますが、
 
