@@ -14,35 +14,25 @@ tags: [Hawaii]
 こういった疑問に答えます。
 <!--more-->
 
+
+
+
 <div class="mokuji">
-
-#### 本記事の内容
-
-<ul>
-<li>
-  1、ハワイ旅行の持ち物チェックリスト【印刷可】<br>
-  一般用<br>
-  子連れ用
-  
-</li>
-<li>
-  2、忘れ物をしてしまった！現地で調達できるものは？ 
-</li>
+<div class="mokuji-title">本記事の内容</div>
+<ul class="mokuji-list">
+    <li>
+      <a href="#1">ハワイ旅行の持ち物チェックリスト【印刷可】</a><br>
+      一般用<br>
+      子連れ用
+    </li>
+    <li>
+      <a href="#2">忘れ物をしてしまった！現地で調達できるものは？ </a>
+    </li>
 </ul>
 </div>
+
+
 <br><br><br>
-
-<style>
-  
-div.mokuji {
-  background: #ffffff;
-  padding: 10px;
-  text-align: left;
-  border: 1px solid #cccccc;
-}
-  </style>
-
-
 
 この記事を書いている私は、<br>
 
@@ -59,8 +49,9 @@ div.mokuji {
 
 <br><br><br>
 
+<a name="1"></a>
 
-## <b> 1.  ハワイ旅行の持ち物チェックリスト【印刷可】</b>
+## 1.  ハワイ旅行の持ち物チェックリスト【印刷可】
 
 
 ハワイ旅行に適した一般的な持ち物をリストにまとめました
@@ -75,6 +66,7 @@ div.mokuji {
 <br><br><br>
 
 #### ハワイ旅行の持ち物リスト
+
 
 ★マークは機内持ち込み／手荷物に入れるもの（液体は容量注意）
 
@@ -159,9 +151,10 @@ div.mokuji {
 
 <br><br><br><br><br><br><br>
 
-
+<a name="2"></a>
 
 ## 2、万が一忘れ物をしてしまった場合、現地でも買えるものは？
+
 
 ![TravelChecklist](/assets/images/20201206/travel-checklist2.jpg)
 

@@ -8,6 +8,7 @@
 	"syntax"
 ;
 
+
 div.row img:not(.emoji):not(.actual){
 	width:100%;
 }
@@ -30,3 +31,29 @@ div.img-flame{
 		margin: auto;
 	}
 }
+
+
+$mokuji-color: #c6538c;
+
+div.mokuji{
+	border: 1px solid $mokuji-color;
+	
+	div.mokuji-title{
+		border-bottom: 1px solid #cccccc;
+		padding: 10px 20px 0 20px;
+		background: $mokuji-color;
+		color: #FFFFFF;
+	}
+	
+	ul.mokuji-list {
+		background: #ffffff;
+		padding: 20px 40px;
+		text-align: left;
+		
+		li {
+			list-style: decimal;
+		}
+	}
+}
+
+
